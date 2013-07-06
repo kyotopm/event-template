@@ -34,6 +34,28 @@ sub distribution {
   <a class="btn btn-register btn-large" href="<: $event_url :>" target="_blank">Kyoto.pm 05 Tech Talkに参加する</a>
 </center>
 
+@@ it-calendar.txt
+To: hanazukin+IT＠gmail.com
+Subject: IT勉強カレンダー掲載に関して
+
+こんにちは、Kyoto.pmという勉強会を開催している@shiba_yu36と申します。IT勉強会カレンダーに掲載をお願いしたいです。
+
+1.勉強会/イベント名
+<: $event_name :>
+Perlに関する勉強会です。
+
+2.開催日時
+<: $date :>
+
+3.開催場所
+株式会社はてな
+http://www.hatena.ne.jp/company/location
+
+4.情報が掲載されているURL
+<: $event_url :>
+
+よろしくお願いします。
+
 @@ zusaar.txt
 　<: $event_name :>を開催します。発表会形式の勉強会です。詳細は以下のとおりです。
 ・日時 : <: $date :>
