@@ -1,0 +1,8 @@
+#!perl
+# This file is managed by /Users/shibayu36/perl5/perlbrew/perls/perl-5.14.2/bin/dim.
+{
+  dist => 'tech-talk-05',
+  distdir => 'tech-talk-05',
+  module => 'tech::talk::05',
+  template => 'Kyotopm::TechTalks'
+}

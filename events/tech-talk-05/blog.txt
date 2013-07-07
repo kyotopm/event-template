@@ -1,0 +1,17 @@
+Kyoto.pm 05 Tech Talkを開催しようと思います！
+
+<center>
+  <a class="btn btn-register btn-large" href="http://www.zusaar.com/event/843003" target="_blank">Kyoto.pm 05 Tech Talkに参加する</a>
+</center>
+
+イベントの詳細は以下の通りです。
+- 日時 : 2013/7/13(土) 15:00-
+- 場所 : 株式会社はてな 8F(http://www.hatena.ne.jp/company/location)
+- 参加費 : 500-1000円
+- 懇親会 : その場でかどこかに行きます(2000円-4000円)
+
+参加は以下のボタンからZusaarで登録をお願いします。また発表者も募集しています！Zusaarのページのコメント欄に発表内容を書いていただくか、[https://twitter.com/shiba_yu36:title=@shiba_yu36]までご連絡ください。
+
+<center>
+  <a class="btn btn-register btn-large" href="http://www.zusaar.com/event/843003" target="_blank">Kyoto.pm 05 Tech Talkに参加する</a>
+</center>
