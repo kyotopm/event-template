@@ -34,6 +34,10 @@ sub distribution {
   <a class="btn btn-register btn-large" href="<: $event_url :>" target="_blank">Kyoto.pm 05 Tech Talkに参加する</a>
 </center>
 
+@@ facebook.txt
+次回<: $event_name :>の開催は<: $date :>です。イベントの詳細は<: $event_url :>からどうぞ。
+参加者、発表者お待ちしています！
+
 @@ it-calendar.txt
 To: hanazukin+IT＠gmail.com
 Subject: IT勉強カレンダー掲載に関して
@@ -117,10 +121,7 @@ http://www.hatena.ne.jp/company/location
 ・その他
 
 スケジュール
-14:30              開場
-15:00              会場説明
-15:10 - 18:00      発表
-18:00 -            懇親会
+<: $schedule :>
 
 発表
 ・
