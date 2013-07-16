@@ -21,7 +21,7 @@ SCHEDULE
 
 ## Generate event template
 Second, generate event template using following command.  First argument is the name of configuration file without extension.
-```Perl
+```
 $ script/make-event.pl tech-talk-05
 ```
 
